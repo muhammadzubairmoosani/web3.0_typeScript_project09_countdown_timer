@@ -1,0 +1,27 @@
+{
+  "name": "web3.0_typescript_project09_countdown_timer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammadzubairmoosani/web3.0_typeScript_project09_countdown_timer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhammadzubairmoosani/web3.0_typeScript_project09_countdown_timer/issues"
+  },
+  "homepage": "https://github.com/muhammadzubairmoosani/web3.0_typeScript_project09_countdown_timer#readme",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  }
+}
