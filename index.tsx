@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import inquirer from "inquirer";
 
 const countdown = async (count: number): Promise<void> => {

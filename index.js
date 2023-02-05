@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import inquirer from "inquirer";
 const countdown = async (count) => {
     if (count > 0) {

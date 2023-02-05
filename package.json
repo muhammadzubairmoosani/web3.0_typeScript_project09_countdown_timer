@@ -1,5 +1,5 @@
 {
-  "name": "web3.0_typescript_project09_countdown_timer",
+  "name": "inquirer_countdown_timer_09_zm",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,8 +11,11 @@
     "type": "git",
     "url": "git+https://github.com/muhammadzubairmoosani/web3.0_typeScript_project09_countdown_timer.git"
   },
-  "keywords": [],
-  "author": "",
+  "bin": "./index.js",
+  "keywords": [
+    "countdown timer", "TypeScript", "inquirer", "command-line", "CLI", "time management", "timer"
+  ],
+  "author": "zubair moosani",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/muhammadzubairmoosani/web3.0_typeScript_project09_countdown_timer/issues"
